@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="buttonColor">#007BFF</color>
+        <color name="white">#FFFFFF</color>
+        <color name="black">#000000</color>
+        <color name="green500">#4CAF50</color> <!-- Tambahkan ini -->
+        <color name="textHint">#9E9E9E</color>
+        <color name="textBlue">#1976D2</color>
+        <color name="Blue">#FF0046B8</color>
+        <color name="infoBlue">#1976D2</color>
+        <color name="purple_200">#FFBB86FC</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#FF3700B3</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="gray_666666">#666666</color>
+        <color name="light_gray">#E0E0E0</color>
+        <color name="gray_888888">#888888</color>
+        <color name="holo_green_dark">#FF689F6B</color>
+        <color name="light_blue_selection">#E3F2FD</color>
+        <color name="backgroundcard">#FFFFFF</color>
+</resources>

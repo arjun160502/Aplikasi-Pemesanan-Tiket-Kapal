@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="DuplicateDefinition">tugasprojek(arjun&amp;elin)</string>
+    <string name="app_name_full">Kapal Para Perintis</string>
+
+    <string name="back_button_desc">Tombol Kembali</string>
+    <string name="app_logo_desc">Logo Aplikasi</string>
+    <string name="arrow_right_desc">Panah Kanan</string>
+
+    <string name="price_label">Harga Tiket</string>
+    <string name="detail_pemesan_title">Detail Pemesan</string>
+    <string name="nama_lengkap_label">Nama Lengkap</string>
+    <string name="nama_lengkap_hint">Masukkan nama lengkap</string>
+    <string name="nomor_telepon_label">Nomor Telepon</string>
+    <string name="nomor_telepon_hint">Masukkan nomor telepon</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Masukkan alamat email</string>
+    <string name="data_penumpang_title">Data Penumpang</string>
+    <string name="total_label">Total:</string>
+    <string name="pesan_tiket_button">Pesan Tiket</string>
+    <string name="nama_penumpang_hint_format">Masukkan nama %1$s</string>
+    <string-array name="identity_types">
+        <item>Pilih Jenis Identitas</item> <item>KTP</item>
+        <item>SIM</item>
+        <item>Paspor</item>
+        <item>Kartu Pelajar</item>
+        <item>Kartu Keluarga</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>

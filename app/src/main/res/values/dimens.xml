@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_padding">10dp</dimen>
+    <dimen name="margin_bottom_edittext">12dp</dimen>
+    <dimen name="margin_top_passenger_label">12dp</dimen>
+    <dimen name="margin_top_section">16dp</dimen>
+</resources>
