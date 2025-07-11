@@ -9,22 +9,20 @@ android {
 
     defaultConfig {
         applicationId = "com.junel.tugasprojekarjunelin"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 35 // Sudah benar
         versionCode = 1
-        versionName = "1.1"
+        versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         // Perbaikan: vectorDrawables (bukan vectorDrawbles) dan pastikan di dalam defaultConfig
-        vectorDrawables {
-            useSupportLibrary = true
-        }
+
 
     }
 
     buildTypes {
         release {
-            isMinifyEnabled = true
+            isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
